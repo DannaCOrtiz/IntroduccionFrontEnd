@@ -1,0 +1,32 @@
+body {
+
+  background-color: rgb(255, 255, 255)
+}
+
+.titulo {
+  color: red;
+  font-size: 15px;
+  text-align: center;
+  font-style: italic;
+}
+
+.tab {
+  background-color: yellow;
+  border-collapse: collapse;
+  border-bottom: dotted red;
+}
+
+.tab th {
+  color: red;
+}
+
+.tab th,
+td {
+  border: 1px dotted black;
+  font-size: 13px;
+
+}
+
+.parrafo {
+  font-size: 13px;
+}
